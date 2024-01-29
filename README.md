@@ -1,2 +1,2 @@
 # Hello git
-this is a test repositry
+this is a test repository
